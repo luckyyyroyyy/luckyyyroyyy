@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>🚀 Motivated DevOps & Software Engineering aspirant with a solid understanding of 🐍 Python, 🐧 Linux, 🐳 Docker, and 🌿 Git.<br>🎓 Currently completing a Bachelor’s in Computer Applications.<br>🚀 Enthusiastic about 🤖 automation, 📊 scalable system design, and ☁️ modern cloud technologies.<br>🧠 Known for fast learning and strong analytical skills.<br><br>
+<br><br>🚀 Motivated DevOps & Software Engineering Aspirant with a solid understanding of 🐍 Python, 🐧 Linux, 🐳 Docker, and 🌿 Git.<br>🎓 Currently completing a Bachelor’s in Computer Applications.<br>🚀 Enthusiastic about 🤖 automation, 📊 scalable system design, and ☁️ modern cloud technologies.<br>🧠 Known for fast learning and strong analytical skills.<br><br>
 
 
 ## 🌐 Socials:
